@@ -23,10 +23,8 @@ Data Fields
 6. drop_lng: ride request drop longitude
 
 Defining a Good Ride Request
+some guidelines to follow.
 
-Ola Management knows the task is not easy and very important for their business to
-grow.
-Hence, their business team has provided you some guidelines to follow.
 1. Count only 1 ride request by a user, if there are multiple bookings from the
 same latitude and longitude within 1hour of the last booking time.
 2. If there are ride requests within 8mins of the last booking time consider only 1
